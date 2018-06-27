@@ -1,4 +1,5 @@
-# Thesis-severity-score-queries-
+# Dayly-SAPS-III-and-OASIS-scores-for-MIMIC-III
+Used in the Thesis: Towards Understanding ICU Procedures using Similarities in Patient Trajectories.
 SAPS-III and OASIS score quarries computed dayly. Existing code from the offical MIMIC-III repository was modified to achieve this. 
 The original MIMIC-III repository can be found here: https://github.com/MIT-LCP/mimic-code
 
